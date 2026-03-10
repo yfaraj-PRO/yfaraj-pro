@@ -10,7 +10,7 @@
 - 💼 Disponible en **freelance** pour vos projets web, mobile et automatisation
 - 🌱 J'apprends actuellement : **React, Python, Cloud Computing**
 - 🤝 Ouvert aux collaborations sur des projets open source
-- 📫 Me contacter : **[votre-email@email.com](mailto:votre-email@email.com)**
+- 📫 Me contacter : **[farajy240@email.com](mailto:votre-email@email.com)**
 
 ---
 
