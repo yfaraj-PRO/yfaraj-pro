@@ -49,6 +49,34 @@ Statut: 💼 Disponible en freelance
 
 ---
 
+## 💼 Services
+
+<div align="center">
+
+| Service | Description | Technologies |
+|---------|-------------|--------------|
+| 🌐 **Développement Web** | Création de sites web modernes, responsive et performants (vitrine, e-commerce, portfolio, etc.) | React, Node.js, Django, HTML/CSS/JS |
+| 📱 **Développement Mobile** | Conception d'applications mobiles cross-platform fluides et intuitives | Flutter, React Native |
+| 🤖 **Intelligence Artificielle** | Intégration de solutions IA : chatbots, analyse de données, automatisation intelligente | Python, TensorFlow, OpenAI API |
+| 🎨 **UI/UX Design** | Design d'interfaces utilisateur modernes et expérience utilisateur optimisée | Figma, Adobe XD |
+| 🔧 **Automatisation & Scripts** | Scripts personnalisés pour automatiser vos tâches répétitives et workflows | Python, Bash, Node.js |
+| 📊 **Tableaux de bord & Dashboards** | Développement de dashboards interactifs pour visualiser et analyser vos données | React, Chart.js, Python |
+
+</div>
+
+<div align="center">
+
+### 💰 Pourquoi me choisir ?
+
+✅ Code propre et bien structuré · ✅ Communication transparente · ✅ Livraison dans les délais
+✅ Support après livraison · ✅ Tarifs compétitifs · ✅ Satisfaction garantie
+
+> 📩 *Vous avez un projet en tête ? N'hésitez pas à me contacter pour un devis gratuit !*
+
+</div>
+
+---
+
 ## 📊 Mes Stats GitHub
 
 <div align="center">
