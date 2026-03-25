@@ -101,6 +101,23 @@ Statut: 💼 Disponible en freelance
 
 ---
 
+## 🛎️ Mes Services
+
+<div align="center">
+
+| | Service | Description | Technologies |
+|---|---------|-------------|--------------|
+| 🌐 | **Développement Web** | Création de sites vitrines, e-commerce et applications web | HTML, CSS, JavaScript, React, Node.js, Django |
+| 📱 | **Développement Mobile** | Conception d'applications mobiles iOS & Android | Flutter, React Native |
+| 🤖 | **Intelligence Artificielle & Machine Learning** | Développement de modèles IA/ML, analyse de données, automatisation intelligente | Python, TensorFlow, Scikit-learn |
+| 💼 | **Freelance & Consulting** | Consulting technique, intégration d'APIs, accompagnement de projets digitaux | Disponible pour des missions freelance |
+
+📩 *Contactez-moi pour discuter de votre projet !*
+
+</div>
+
+---
+
 ## 📫 Me contacter
 
 <div align="center">
