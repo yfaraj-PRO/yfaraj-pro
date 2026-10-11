@@ -12,7 +12,7 @@
 
 ```yaml
 Nom: yfaraj-PRO
-Formation: 2ème année Licence d'Ingénierie en Informatique
+Formation: 3ème année Licence d'Ingénierie en Informatique
 Domaines: Développement Web, Mobile & Intelligence Artificielle
 Langues: 🇫🇷 Français | 🇲🇦 Arabe | 🇬🇧 Anglais
 Objectif: Construire des solutions innovantes et utiles
